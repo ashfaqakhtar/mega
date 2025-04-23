@@ -1,0 +1,13 @@
+<!-- .prettierrc is a config file (JSON, YAML, or JS) that lets you customize how Prettier formats your code. It usually lives in the root of your project. -->
+
+
+{
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": false,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "jsxBracketSameLine": false,
+  "arrowParens": "always"
+}
